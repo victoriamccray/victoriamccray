@@ -15,7 +15,7 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **Languages:** Python • R • SQL • HTML/CSS • JavaScript  
 
-**Data & ML:** pandas • NumPy • scikit-learn • PySpark • tidyr • caret
+**Data & ML:** pandas • NumPy • scikit-learn • PySpark • tidyr • caret • OpenAI API
 
 **Platforms:** Databricks • Snowflake • Azure • Power BI • Git
 
