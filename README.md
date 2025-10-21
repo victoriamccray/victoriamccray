@@ -1,16 +1,44 @@
-## Hi there 👋
+# Victoria McCray
 
-<!--
-**victoriamccray/victoriamccray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Health Data Scientist | MSc Bioinformatics Candidate**
 
-Here are some ideas to get you started:
+I develop statistical pipelines and machine learning methods for large-scale biomedical data, from neuroimaging studies to national public health systems. My work finds meaningful patterns in high-dimensional, noisy biological data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- **Computational Neuroscience** - Brain connectivity, neuropsychiatric disorders, reward processing
+- **Biomedical Data Science** - Health surveillance, epidemiological modeling, clinical data systems
+- **Statistical Genomics** - Variant analysis, multi-omic integration, disease mechanisms
+- **Research Equity** - Open science, community-engaged research, capacity building
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • R • SQL • HTML/CSS • JavaScript  
+
+**Data & ML:** pandas • NumPy • scikit-learn • PySpark • tidyr • caret
+
+**Platforms:** Databricks • Snowflake • Azure • Power BI • Git
+
+**Methods:** Statistical Modeling • Machine Learning • Network Analysis • Data Engineering
+
+## 📌 Featured Projects
+
+**[Open Science Neuro Hackathon](https://github.com/victoriamccray/Hackathon)** - Research tools for neuroscientists across the African diaspora
+
+**[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
+
+**[SWAN Women's Health Analysis](https://github.com/victoriamccray/swan-study-analysis)** - Longitudinal health data using dimensionality reduction
+
+## 💼 Current Work
+
+- Health Data Scientist at **Guidehouse**
+- MSc Bioinformatics at **Northeastern University**
+- Director of Finance at **Black In Neuro**
+
+## 📫 Connect
+
+[victoriamccray.github.io](https://victoriamccray.github.io) • [LinkedIn](https://linkedin.com/in/your-handle) • victoriapmccray@gmail.com
+
+---
+
+💡 Open to opportunities in bioinformatics, computational neuroscience, and health data science
