@@ -17,9 +17,9 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **Data & ML:** pandas • NumPy • scikit-learn • PySpark • tidyr • caret • random forest • ensembles • OpenAI API
 
-**Platforms:** Databricks • Snowflake • Azure • Power BI • Git
+**Cloud Platforms:** Databricks • Snowflake • Azure • Power BI • Git
 
-**Methods:** Statistical Modeling • Machine Learning • Network Analysis • Data Engineering
+**Methods:** Statistical Modeling • Machine Learning • Network Analysis • Data Engineering • LLMs & NLP
 
 ## 📌 Featured Projects
 
