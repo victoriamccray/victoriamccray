@@ -31,7 +31,7 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 ## 💼 Current Work
 
-- Health Data Scientist at **Guidehouse**
+- AI & Data Scientist at **Guidehouse Health**
 - MSc Bioinformatics at **Northeastern University**
 - Director of Finance at **Black In Neuro**
 
