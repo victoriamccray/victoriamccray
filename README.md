@@ -27,7 +27,7 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
 
-**[SWAN Women's Health Analysis](https://github.com/victoriamccray/swan-study-analysis)** - Longitudinal health data using dimensionality reduction
+**[Predicting Self-Reported Substance Use](https://github.com/victoriamccray/drug-use-risk-prediction)** - ensemble regression model for predicting self-reported drug use
 
 ## 💼 Current Work
 
