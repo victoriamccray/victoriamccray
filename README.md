@@ -40,7 +40,7 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 ## 📫 Connect
 
-[victoriamccray.github.io](https://victoriamccray.github.io) • [LinkedIn](https://linkedin.com/in/your-handle) • victoriapmccray@gmail.com
+[victoriamccray.github.io](https://victoriamccray.github.io) • [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/victoria-mccray-99399514a/) • victoriapmccray@gmail.com
 
 ---
 Open to opportunities in bioinformatics, computational neuroscience, and health data science!
