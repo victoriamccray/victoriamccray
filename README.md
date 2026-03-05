@@ -27,7 +27,9 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
 
-**[Predicting Self-Reported Substance Use](https://github.com/victoriamccray/drug-use-risk-prediction)** - ensemble regression model for predicting self-reported drug use
+**[Predicting Self-Reported Substance Use](https://github.com/victoriamccray/drug-use-risk-prediction)** - Ensemble regression model for predicting self-reported drug use
+**[Khan Academy User Retention Analysis](https://github.com/victoriamccray/khan-academy-user-retention-analysis)** - Cohort retention analysis examining month 1 behavioral patterns and month 3 retention for 7,612 Khan Academy users
+
 
 ## 💼 Current Work
 
