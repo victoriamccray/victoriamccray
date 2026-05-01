@@ -1,6 +1,6 @@
 # Victoria McCray
 
-**Health Data Scientist, MSc**
+**Health Data Scientist, MSc** 
 
 I develop statistical pipelines and machine learning methods for large-scale biomedical data, from neuroimaging studies to national public health systems. My work finds meaningful patterns in high-dimensional, noisy biological data.
 
