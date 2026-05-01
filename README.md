@@ -1,6 +1,6 @@
 # Victoria McCray
 
-**Health Data Scientist | MSc Bioinformatics Candidate**
+**Health Data Scientist, MSc**
 
 I develop statistical pipelines and machine learning methods for large-scale biomedical data, from neuroimaging studies to national public health systems. My work finds meaningful patterns in high-dimensional, noisy biological data.
 
@@ -32,11 +32,6 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 **[Khan Academy User Retention Analysis](https://github.com/victoriamccray/khan-academy-user-retention-analysis)** - Cohort retention analysis examining month 1 behavioral patterns and month 3 retention for 7,612 Khan Academy users
 
 
-## 💼 Current Work
-
-- AI & Data Scientist at **Guidehouse Health**
-- MSc Candidate in Bioinformatics at **Northeastern University**
-- Director of Finance at **Black In Neuro**
 
 ## 📫 Connect
 
