@@ -25,9 +25,9 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **[Open Science Neuro Hackathon](https://github.com/victoriamccray/Hackathon)** - Research tools for neuroscientists across the African diaspora
 
-**[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
+**[Open Measure](https://github.com/victoriamccray/openmeasure)** - Open-source validation toolkit for data quality, algorithmic bias, and program evaluation.
 
-**[Predicting Self-Reported Substance Use](https://github.com/victoriamccray/drug-use-risk-prediction)** - Ensemble regression model for predicting self-reported drug use
+**[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
 
 **[Khan Academy User Retention Analysis](https://github.com/victoriamccray/khan-academy-user-retention-analysis)** - Cohort retention analysis examining month 1 behavioral patterns and month 3 retention for 7,612 Khan Academy users
 
