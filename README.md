@@ -25,7 +25,7 @@ I develop statistical pipelines and machine learning methods for large-scale bio
 
 **[Open Science Neuro Hackathon](https://github.com/victoriamccray/Hackathon)** - Research tools for neuroscientists across the African diaspora
 
-**[Open Measure](https://github.com/victoriamccray/openmeasure)** - Open-source validation toolkit for data quality, algorithmic bias, and program evaluation.
+**[Open Measure](https://github.com/victoriamccray/openmeasure)** - Open-source validation toolkit for data quality, algorithmic bias, and program evaluation
 
 **[Neurodegenerative Genetics Pipeline](https://github.com/victoriamccray/neurodegenerative-genetics-pipeline)** - Variant analysis for Alzheimer's, Parkinson's, and related diseases
 
